@@ -1,0 +1,20 @@
+# Generated build trees, caches and firmware belong in Actions / Releases.
+/openwrt/
+/dl/
+/bin/
+/build_dir/
+/staging_dir/
+/tmp/
+/firmware/
+/COMMUNITY_SOURCES.txt
+/release.txt
+__pycache__/
+*.py[cod]
+*.img
+*.img.gz
+*.iso
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tar.xz
